@@ -26,9 +26,6 @@ addLayer("p", {
     ],
     layerShown(){return true},
 
-	    upgrades: {
-
-    },
 	
     
 
