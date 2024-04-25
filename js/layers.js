@@ -26,10 +26,9 @@ addLayer("p", {
     ],
     layerShown(){return true}
 	
-}),
-	upgrades: {
+    upgrades: {
 
-		11:{
+11:{
 
     title: "Make this whatever you want!",
     description: "Double your point gain.",
@@ -37,7 +36,7 @@ addLayer("p", {
 
 		},
 
-	},
+	
 
 
 
